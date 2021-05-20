@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+    <activities>
+         <activity id="https://www.jskl.fr/xapi_course_file" type="http://adlnet.gov/expapi/activities/course"> <!-- Upload xapi_course_file to your server after changing your course name -->
+            <name>Name of your course</name> <!-- Name of your course -->
+            <description lang="fr-FR">Name of your course</description> <!-- Name of your course -->
+            <launch lang="fr-fr">index.html</launch> <!-- HTML file to launch for your xAPI Package course -->
+        </activity>
+    </activities>
+</tincan>
